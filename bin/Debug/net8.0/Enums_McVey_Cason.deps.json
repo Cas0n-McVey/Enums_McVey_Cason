@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Enums_McVey_Cason/1.0.0": {
+        "runtime": {
+          "Enums_McVey_Cason.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enums_McVey_Cason/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
