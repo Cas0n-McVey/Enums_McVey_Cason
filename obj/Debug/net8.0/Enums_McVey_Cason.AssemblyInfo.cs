@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enums_McVey_Cason")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718be4f06104ff77cb6664744a9b204710d9d103")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enums_McVey_Cason")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enums_McVey_Cason")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
